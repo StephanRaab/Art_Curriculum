@@ -27,7 +27,7 @@ Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/
 
  [] [🆓 Sycra: Effective composition using shapes](https://www.youtube.com/watch?v=SNmwQumlvbQ)
 
-> [] [🆓 Watch Sycra's video about iterative drawing and iterate on 5 compositions, 10x each](https://www.youtube.com/watch?v=k0ufz75UvHs)
+> [] [Watch Sycra's video about iterative drawing and iterate on 5 compositions, 10x each](https://www.youtube.com/watch?v=k0ufz75UvHs)
 > [] Thumbnail 50 favorite movie scenes from [film-grab](www.filmgrab.com)
 
 # Term 2
