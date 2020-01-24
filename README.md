@@ -4,7 +4,7 @@ Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/
 
 ## Figure Drawing 1
 
-[] Figure Drawing Fundamentals (Proko Premium)
+[] [Figure Drawing Fundamentals (Proko Premium)](https://www.proko.com/figure-drawing-fundamentals-course/)
 
 [Proko free](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
 
