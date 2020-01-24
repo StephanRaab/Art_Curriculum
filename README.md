@@ -4,7 +4,7 @@ Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/
 
 ## Figure Drawing Fundamentals
 
- - [] ## Figure Drawing Fundamentals (Proko Premium)
+[] Figure Drawing Fundamentals (Proko Premium)
 
 > [] Challenge: 30 days of croquis cafe gesture sessions
 
