@@ -12,7 +12,7 @@ Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/
 
 ## Perspective 1
 
- [] [🆓 Drawabox Lessons 0-3](https://drawabox.com/lesson/0)
+ [] [🆓 Drawabox Lessons 0-3](https://drawabox.com/lesson/0), [all lessons](https://docs.google.com/spreadsheets/d/1R4msWQRk4g-fSlJ8Kn6N9QSarws7DAMm3ZKqTgkgTmA/edit#gid=0)
 
  [] [💵 Introduction to Perspective, Marschall Vandruff](http://marshallart.com/SHOP/all-products/all-videos/1994-perspective-drawing-series/)
 
