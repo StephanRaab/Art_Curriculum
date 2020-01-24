@@ -8,7 +8,7 @@ Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/
 
 [Proko free](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
 
-> [] Challenge: 30 days of croquis cafe gesture sessions
+> [] Challenge: 30 days of gesture sessions with [croquis cafe](https://vimeo.com/croquiscafe) and/or [draw this](https://www.youtube.com/channel/UCOVNvkn-f6BW18AvplWI8YA)
 
 ## Perspective 1
 
@@ -34,14 +34,14 @@ Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/
 
 ## Anatomy 1 - The Head
 
-### Youtube
+#### Youtube
 
 [] [Understanding & Painting the head, Marco Bucci](https://marcobucciartstore.com/products/understanding-and-painting-the-head)
 [] [Proko: The Loomis Method](https://www.youtube.com/playlist?list=PL39135B8D190B7C97)
 [] [Proko: Portrait Drawing Fundamentals](https://www.youtube.com/playlist?list=PLR2KBLDDnZz0pHBiiyrqlOB3FU-W5XX1k)
 [] [Sinix: Anatomy quick tips](https://www.youtube.com/playlist?list=PLflflDShjUKH4EfZyf0vuKEuqeqvlV0Qd)
 
-### NMA (New Masters Academy)
+#### NMA (New Masters Academy)
 
 [] [Constructive Head drawing, Steve Huston](https://www.nma.art/courses/constructive-head-drawing/)
 [] [The Frank Reilly Drawing Method, Frank Reilly](https://www.nma.art/courses/the-frank-reilly-drawing-method/)
@@ -52,7 +52,7 @@ Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/
 
 [] [Drawabox Lessons 4-7](https://drawabox.com/lesson/4)
 
-### Youtube
+#### Youtube
 
 [] [ModernDayJames: Perspective 1](https://youtu.be/nAlCyQqEZSU)
 [] [ModernDayJames: Perspective 2](https://youtu.be/O1tv-6JURJ4)
@@ -61,3 +61,16 @@ Art curriculum, based on this [post](https://www.reddit.com/r/learnart/comments/
 > [] [100 Treasure chest challenge](https://drawabox.com/lesson/100chests)
 > [] Rotate 50 boxes
 > [] Rotate 50 cylinders
+
+## Anatomy 2 - The Torso
+
+[] [Anatomy of the human body for artists: Torso, Proko Premium](https://www.proko.com/human-anatomy-for-artists/)
+
+#### Youtube
+
+[] [Proko torso anatomy](https://www.youtube.com/playlist?list=PLo1MyIYOwxxyd_9kkipZV9gnJTYAPAXNG)
+
+> [] 100 Exaggerated Gestures:
+a. draw the gesture of a reference.
+b. mannequinize it.
+c. draw a new, exaggerated gesture based on mannequin
